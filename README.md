@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Tqy8_t-oGL17QttY0R6R6Pm4ihQM_-2Y/view](https://drive.google.com/file/d/1Tqy8_t-oGL17QttY0R6R6Pm4ihQM_-2Y/view)
 
-- ⚡ Fun fact **I Think I am NOT Funny**
+- ⚡ Fun fact  **I Think I am NOT Funny**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamkumar5802" alt="shubhamkumar5802" /></a> </p>
 
