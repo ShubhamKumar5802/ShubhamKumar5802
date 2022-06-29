@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Learning **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [https://shubhamkumar5802.github.io/portfolio/](https://shubhamkumar5802.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://mr-optimizer.github.io/portfolio/](https://mr-optimizer.github.io/portfolio/)
 
 - 💬 Ask me about **MERN**
 
