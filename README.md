@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Review App**
 
-- 🌱 I’m currently Learning **Competitive Programming**
+- 🌱 I’m currently Learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://mr-optimizer.github.io/portfolio/](https://mr-optimizer.github.io/portfolio/)
 
