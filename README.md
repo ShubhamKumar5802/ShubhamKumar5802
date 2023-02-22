@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-optimizer&label=Profile%20views&color=0e75b6&style=flat" alt="mr-optimizer" /> </p>
 
 
-- 🔭 I’m currently working on **Book My Doc App**
+- 🔭 I’m currently working on **Book My Doct App**
 
 - 🌱 I’m currently Learning **Blockchain**
 
