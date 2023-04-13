@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Book My Doct App**
 
-- 🌱 I’m currently Learning **Blockchain**
+- 🌱 I’m currently Learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://mr-optimizer.github.io/portfolio/](https://mr-optimizer.github.io/portfolio/)
 
