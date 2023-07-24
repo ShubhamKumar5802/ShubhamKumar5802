@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sktovisit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tqy8_t-oGL17QttY0R6R6Pm4ihQM_-2Y/view](https://drive.google.com/file/d/1Tqy8_t-oGL17QttY0R6R6Pm4ihQM_-2Y/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zGHhs1ixwzyljnMEvBliopHUEJ3Fx4G7/view])
 
 - ⚡ Fun fact  **I Think I am NOT Funny**
 
