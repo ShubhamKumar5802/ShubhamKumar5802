@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-optimizer&label=Profile%20views&color=0e75b6&style=flat" alt="mr-optimizer" /> </p>
 
 
-- 🔭 I’m currently working on **The Algorithmic Path**
+- 🔭 I’m currently working on **Morl**
 
-- 🌱 I’m currently Learning **Flutter**
+- 🌱 I’m currently Learning **GO**
 
 - 👨‍💻 All of my projects are available at [https://mr-optimizer.github.io/portfolio/](https://mr-optimizer.github.io/portfolio/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **FSD and System Design**
 
 - 📫 How to reach me **sktovisit@gmail.com**
 
